@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.tsbuildinfo
+# API keys (auto-loaded by dotenv)
+.env
+# Local KB data created by `kb init` (never commit knowledge bases)
+kb/
+.kbconfig.json
+# Coverage / temp
+coverage/
+*.log
