@@ -9,3 +9,10 @@ kb/
 # Coverage / temp
 coverage/
 *.log
+.venv/
+venv/
+__pycache__/
+*.pyc
+build/
+.next/
+.DS_Store
